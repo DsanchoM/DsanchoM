@@ -1,10 +1,15 @@
-## About me
+# **HOLA, SOY DAVID** 😎
 
+## ¿QUÉ OS PUEDO CONTAR...?
 
-**DsanchoM/DsanchoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on CAMPUS DIGITAL FP
-- 🌱 I’m currently learning PSYCHOLOGY
-- 🤔 I’m looking for help with EVERYTHING
+- 👨‍🎓 SOY INGENIERO ELECTRÓNICO
+- 📝 HE TRABAJADO DE
+  - INGENIERO HARDWARE MÁS DE 7 AÑOS.
+    - DISEÑO HARDWARE EQUIPOS DE TELECOMUNICACIONES, IoT Y CONVERTIDORES DE POTENCIA
+  - DOCENTE EN...
+    - ELECTRÓNICA APLICADA
+    - EQUIPOS MICROINFORMÁTICOS
+    - REDES LOCALES
+    - PLANIFICACIÓN Y ADMINISTRADOR DE REDES
+    - MODELOS DE INTELIGENCIA ARTIFICIAL
+    - PROGRAMACIÓN DE INTELIGENCIA ARTIFICIAL
